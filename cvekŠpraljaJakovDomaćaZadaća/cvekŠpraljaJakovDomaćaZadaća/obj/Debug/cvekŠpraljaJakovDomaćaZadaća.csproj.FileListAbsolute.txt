@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovDomaćaZadaća\cvekŠpraljaJakovDomaćaZadaća\bin\Debug\cvekŠpraljaJakovDomaćaZadaća.exe.config
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovDomaćaZadaća\cvekŠpraljaJakovDomaćaZadaća\bin\Debug\cvekŠpraljaJakovDomaćaZadaća.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovDomaćaZadaća\cvekŠpraljaJakovDomaćaZadaća\bin\Debug\cvekŠpraljaJakovDomaćaZadaća.pdb
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovDomaćaZadaća\cvekŠpraljaJakovDomaćaZadaća\obj\Debug\cvekŠpraljaJakovDomaćaZadaća.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovDomaćaZadaća\cvekŠpraljaJakovDomaćaZadaća\obj\Debug\cvekŠpraljaJakovDomaćaZadaća.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovDomaćaZadaća\cvekŠpraljaJakovDomaćaZadaća\obj\Debug\cvekŠpraljaJakovDomaćaZadaća.pdb
